@@ -42,7 +42,7 @@ logsuffix=""
 
 # Paper updates
 if [ -n "$paperHash" ]; then
-    paper=$(getCommits "PaperMC/Paper" "$paperHash")
+    paper=$(getCommits "ImUrX/RNGPaper" "$paperHash")
 
     # Updates found
     if [ -n "$paper" ]; then
