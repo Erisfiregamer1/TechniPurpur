@@ -35,7 +35,7 @@ while true; do
     esac
 done
 
-paper=""
+paper="ImUrX/RNGPaper"
 pufferfish=""
 updated=""
 logsuffix=""
